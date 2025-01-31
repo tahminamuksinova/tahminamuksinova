@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi there 😃 Hello world 🌎
 #### Junior Software developer 
 Hi, I'm Takhmina 👋🏻
- a passionate junior software developer with a strong interest in web development. I have experience in SQL, Machine Learning, Pyhton, C#,  HTML, CSS, and JavaScript and enjoy building dynamic and responsive web applications. I'm constantly learning new technologies and looking for opportunities to grow in the field.🦾
+ a passionate junior software developer with a strong interest in web development. I have experience in SQL, Machine Learning, Pyhton, C#,  HTML, CSS, and JavaScript and enjoy building dynamic and responsive web applications. I'm constantly learning new technologies and looking for opportunities to grow in the field.🦾.
 
 Skills: Skills: JavaScript / HTML / CSS
 
