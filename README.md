@@ -154,21 +154,7 @@ The project explores how modern data technologies can support wind-energy analys
 
 In this video, I present the WindWise project and explain its purpose, technologies, architecture, and development process.
 
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=hsMuEPkiRrs">
-  <img
-    src="https://img.youtube.com/vi/hsMuEPkiRrs/maxresdefault.jpg"
-    alt="WindWise project presentation by Takhmina Muksinova"
-    width="700"
-  />
-</a>
-
-<br><br>
-
 [Watch the WindWise presentation on YouTube →](https://www.youtube.com/watch?v=hsMuEPkiRrs)
-
-</div>
 
 ---
 
