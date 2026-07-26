@@ -66,12 +66,17 @@ The projects below demonstrate my ability to combine technical development with 
 ---
 
 # Recent Projects
- <details>
+
+<details>
+<summary><strong>View recent projects</strong></summary>
+
+<br>
+
 ## AzizMatrix
 
 AzizMatrix is a multilingual web platform offering interactive personal-analysis tools and automated calculations based on a user's birth date.
 
-### Main features
+### Main Features
 
 - Fate Matrix calculator
 - Pythagorean psychomatrix
@@ -92,7 +97,7 @@ AzizMatrix is a multilingual web platform offering interactive personal-analysis
 
 A multilingual website and digital business platform developed for an automotive repair company in Tuusula, Finland.
 
-### My work includes
+### My Work Includes
 
 - Website development and administration
 - Multilingual service pages
@@ -113,14 +118,14 @@ A multilingual website and digital business platform developed for an automotive
 
 A private Telegram-based workflow and administration application developed to support business processes.
 
-### Main features
+### Main Features
 
 - Customer request handling
 - Receipt submission
 - Administrator approval workflow
 - Automated notifications
 - Multiple administrator roles
-- User-access management
+- User access management
 - Business process automation
 - Cloud deployment
 
@@ -136,7 +141,7 @@ WindWise is a data engineering and analytics project focused on processing and a
 
 The project explores how modern data technologies can support wind-energy analysis, data-driven forecasting, and scalable data processing.
 
-### Project areas
+### Project Areas
 
 - Wind turbine observation data
 - Meteorological and weather data
@@ -156,6 +161,8 @@ In this video, I present the WindWise project and explain its purpose, technolog
 
 [Watch the WindWise presentation on YouTube →](https://www.youtube.com/watch?v=hsMuEPkiRrs)
 
+</details>
+
 ---
 
 # Additional Projects
@@ -169,7 +176,7 @@ In this video, I present the WindWise project and explain its purpose, technolog
 
 Interactive reports and dashboards developed for business analysis and decision-making.
 
-### Project work
+### Project Work
 
 - Excel data import
 - Power Query transformations
@@ -189,7 +196,7 @@ Interactive reports and dashboards developed for business analysis and decision-
 
 A supervised machine-learning project using XGBoost for data prediction and model evaluation.
 
-### Project work
+### Project Work
 
 - Data cleaning
 - Feature preparation
@@ -208,7 +215,7 @@ A supervised machine-learning project using XGBoost for data prediction and mode
 
 An R-based data-analysis project using structured vehicle data.
 
-### Project work
+### Project Work
 
 - Importing datasets
 - Cleaning and transforming data
@@ -226,7 +233,7 @@ An R-based data-analysis project using structured vehicle data.
 
 Development of workflows for extracting, cleaning, transforming, validating, and preparing data.
 
-### ETL stages
+### ETL Stages
 
 1. Extract data from files, APIs, and databases
 2. Clean missing, duplicate, and invalid values
@@ -243,7 +250,7 @@ Development of workflows for extracting, cleaning, transforming, validating, and
 
 A development project involving API data retrieval, response processing, application logging, and error handling.
 
-### Project work
+### Project Work
 
 - REST API requests
 - JSON data processing
@@ -264,7 +271,7 @@ Maku Haku is a web application designed to help users discover restaurants, expl
 
 I was responsible for backend API development and database management.
 
-### My responsibilities
+### My Responsibilities
 
 - Creating RESTful APIs
 - Managing restaurant and menu information
@@ -284,7 +291,7 @@ I was responsible for backend API development and database management.
 
 A technical documentation and data-analysis project based on the General Transit Feed Specification.
 
-### Datasets covered
+### Datasets Covered
 
 - `stops.txt`
 - `routes.txt`
@@ -292,7 +299,7 @@ A technical documentation and data-analysis project based on the General Transit
 - `calendar.txt`
 - `shapes.txt`
 
-### Skills demonstrated
+### Skills Demonstrated
 
 - Dataset documentation
 - Structured file analysis
@@ -308,7 +315,7 @@ A technical documentation and data-analysis project based on the General Transit
 
 Coursework involving advanced data-analysis methods and structured analytical problem-solving.
 
-### Topics included
+### Topics Included
 
 - Data preprocessing
 - Statistical analysis
@@ -326,7 +333,7 @@ Coursework involving advanced data-analysis methods and structured analytical pr
 
 A web-based reporting project involving structured sustainability-related information.
 
-### Project work
+### Project Work
 
 - Structured HTML content
 - Report navigation
@@ -342,7 +349,7 @@ A web-based reporting project involving structured sustainability-related inform
 
 A team-based web calculator project developed using an organised software-development process.
 
-### Project areas
+### Project Areas
 
 - Calculator functionality
 - Calculation history
@@ -362,7 +369,7 @@ A team-based web calculator project developed using an organised software-develo
 
 A learning and documentation project covering containerisation and Linux-based development environments.
 
-### Topics included
+### Topics Included
 
 - Docker installation
 - Images and containers
@@ -379,7 +386,7 @@ A learning and documentation project covering containerisation and Linux-based d
 
 A responsive portfolio website presenting my education, work experience, skills, and software projects.
 
-### Website sections
+### Website Sections
 
 - Home
 - About
@@ -398,7 +405,7 @@ A responsive portfolio website presenting my education, work experience, skills,
 
 Development and maintenance of multilingual WordPress websites.
 
-### Project areas
+### Project Areas
 
 - WordPress theme development
 - Responsive layouts
