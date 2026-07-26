@@ -2,14 +2,13 @@
 
 # Hi, I'm Takhmina Muksinova
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=ICT+Engineering+Student+%7C+Data+to+AI;Software+Developer+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+R;Building+Web+Apps%2C+ETL+and+Automation+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=ICT+Engineering+Student+%7C+Data+to+AI;Software+Developer+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+R;Building+Web%2C+Data+and+Automation+Solutions)](https://git.io/typing-svg)
 
-### Software Developer · Data & AI Student · Data Analytics
+### Software Developer · Data & AI Student · Automation Builder
 
 Based in Finland  
 ICT Engineering student at Kajaani University of Applied Sciences  
 Software Developer graduate from Keuda  
-Building data, web, AI, ETL, and business automation solutions
 
 <p>
   <a href="https://tahminamuksinova.github.io/">
@@ -37,41 +36,51 @@ Building data, web, AI, ETL, and business automation solutions
 
 - Studying **Information and Communication Technology – From Data to AI** at KAMK
 - Graduated as a **Software Developer** from Keuda with a weighted average of **4.80/5.00**
-- Experienced in web development, data analysis, databases, APIs, ETL, reporting, and automation
+- Experienced in software development, data analytics, APIs, databases, ETL, reporting, and automation
 - Interested in **Artificial Intelligence, Python, SQL, Power BI, R, and machine learning**
-- Building multilingual applications and practical digital business solutions
-- Experienced in independent projects, team projects, and real business development work
+- Building multilingual web applications and practical digital business systems
+- Experienced in both individual and team-based software projects
 - Open to junior opportunities in software development, data analytics, data engineering, and AI
+
+---
+
+## Languages
+
+- Uzbek
+- Russian
+- Finnish
+- English
 
 ---
 
 ## Portfolio
 
-My portfolio presents my software development journey, technical experience, and selected data and web projects.
+My portfolio presents my software development journey, technical experience, and selected web and data projects.
 
-During my training at **Startecon Oy**, I worked with real business data and developed experience in Python, SQL, APIs, machine learning, data processing, reporting, and automation.
+During my professional training at **Startecon Oy**, I worked with real business data and gained practical experience in Python, SQL, APIs, data processing, machine learning, reporting, and software development.
 
-The projects below demonstrate my skills in frontend and backend development, data engineering, machine learning, database design, business intelligence, and digital business systems.
+The projects below demonstrate my ability to combine technical development with practical problem-solving.
 
 [Visit my portfolio →](https://tahminamuksinova.github.io/)
 
 ---
 
-# Featured Projects
+# Recent Projects
 
 ## AzizMatrix
 
-A multilingual web platform offering interactive calculators and structured personal-analysis reports.
+AzizMatrix is a multilingual web platform offering interactive personal-analysis tools and automated calculations based on a user's birth date.
 
-**Key features:**
+### Main features
 
 - Fate Matrix calculator
 - Pythagorean psychomatrix
 - Chakra calculations
 - Personal and yearly analysis
-- Responsive mobile interface
+- Responsive desktop and mobile interface
 - Multilingual content
 - Automated calculation logic
+- Dynamic result pages
 
 **Technologies:** Next.js, TypeScript, JavaScript, HTML, CSS and WordPress
 
@@ -83,179 +92,162 @@ A multilingual web platform offering interactive calculators and structured pers
 
 A multilingual website and digital business platform developed for an automotive repair company in Tuusula, Finland.
 
-**My work includes:**
+### My work includes
 
 - Website development and administration
 - Multilingual service pages
-- Responsive mobile design
-- Customer communication tools
-- Business invoicing workflows
-- Receipt and accounting processes
-- Digital service presentation
+- Responsive desktop and mobile design
+- Customer contact tools
+- Online service presentation
 - Business workflow development
+- Digital invoicing and communication processes
+- Website content and technical maintenance
 
-**Technologies:** WordPress, JavaScript, HTML, CSS, Excel and business automation tools
+**Technologies:** WordPress, JavaScript, HTML, CSS and digital business tools
 
 [Visit Karhu Service →](https://karhuservice.fi)
 
 ---
 
+## Telegram Business Automation Bot
+
+A private Telegram-based workflow and administration application developed to support business processes.
+
+### Main features
+
+- Customer request handling
+- Receipt submission
+- Administrator approval workflow
+- Automated notifications
+- Multiple administrator roles
+- User-access management
+- Business process automation
+- Cloud deployment
+
+**Technologies:** Python, Telegram Bot API, Railway and database integration
+
+> This is a private business application, so the source code and internal business information are not publicly available.
+
+---
+
 ## WindWise – Wind Energy Data Platform
 
-A data engineering and analytics project focused on collecting wind turbine observations and meteorological information.
+WindWise is a data engineering and analytics project focused on processing and analysing wind turbine and meteorological data.
 
-The purpose of the project was to support improved wind energy forecasting and provide a scalable structure for analysing wind and weather patterns.
+The project explores how modern data technologies can support wind-energy analysis, data-driven forecasting, and scalable data processing.
 
-**Project areas:**
+### Project areas
 
 - Wind turbine observation data
-- Meteorological data collection
-- Cloud data storage
-- Data transformation and preparation
-- Wind energy forecasting
+- Meteorological and weather data
+- Data extraction and transformation
+- ETL workflow development
+- Cloud-based data storage
+- Data cleaning and validation
+- Wind-energy forecasting concepts
 - Scalable data architecture
 - Vector search and similarity analysis concepts
 
 **Technologies:** Python, Google Cloud, MongoDB Atlas, SQL, ETL and data analytics
 
----
+### WindWise Video Presentation
 
-## Business Workflow Automation Bot
+In this video, I present the WindWise project and explain its purpose, technologies, architecture, and development process.
 
-A private Telegram-based CRM and workflow application developed to support business administration.
+<div align="center">
 
-**Key features:**
+<a href="https://www.youtube.com/watch?v=hsMuEPkiRrs">
+  <img
+    src="https://img.youtube.com/vi/hsMuEPkiRrs/maxresdefault.jpg"
+    alt="WindWise project presentation by Takhmina Muksinova"
+    width="700"
+  />
+</a>
 
-- Customer request handling
-- Receipt submission
-- Receipt verification
-- Administrator approvals
-- Role-based access
-- Automated Telegram notifications
-- Database integration
-- Railway cloud deployment
+<br><br>
 
-**Technologies:** Python, Telegram Bot API, PostgreSQL and Railway
+[Watch the WindWise presentation on YouTube →](https://www.youtube.com/watch?v=hsMuEPkiRrs)
 
-> This is a private business project, so the source code is not publicly available.
-
----
-
-# Data Analytics and Machine Learning Projects
-
-## Karpon Accounting Data Analysis
-
-A data analytics and machine-learning project focused on processing, analysing, and forecasting accounting data.
-
-The project used time-stamped financial information and categorical variables. Automated data processes were created to support faster and more accurate business analysis.
-
-**Project tasks:**
-
-- Financial data preprocessing
-- Missing-value handling
-- Categorical feature preparation
-- Time-series data processing
-- Machine-learning model development
-- Forecasting and prediction
-- Model evaluation
-- Automated SQL data processes
-
-**Technologies:** Python, SQL, Pandas, XGBoost, machine learning and data preprocessing
+</div>
 
 ---
 
-## XGBoost Forecasting Model
+# Additional Projects
 
-A supervised machine-learning project using XGBoost for prediction and forecasting.
+<details>
+<summary><strong>View additional data, software, and development projects</strong></summary>
 
-The project included preparing structured data, selecting features, training the model, evaluating prediction quality, and analysing model results.
-
-**Skills demonstrated:**
-
-- Feature engineering
-- Data cleaning
-- Categorical data processing
-- Model training
-- Hyperparameter evaluation
-- Prediction analysis
-- Model performance comparison
-
-**Technologies:** Python, XGBoost, Pandas, NumPy and machine learning
-
----
+<br>
 
 ## Power BI Business Analytics
 
-Interactive reports and dashboards developed for data analysis and decision-making.
+Interactive reports and dashboards developed for business analysis and decision-making.
 
-**Key features:**
+### Project work
 
 - Excel data import
 - Power Query transformations
-- Data cleaning
-- Relationship modelling
-- DAX measures
+- Data cleaning and validation
+- Data relationship modelling
+- DAX calculations
 - KPI cards
 - Interactive charts
 - Filters and slicers
-- Business performance reporting
+- Business reporting
 
 **Technologies:** Power BI, Power Query, DAX, Excel and data modelling
 
 ---
 
+## XGBoost Machine-Learning Project
+
+A supervised machine-learning project using XGBoost for data prediction and model evaluation.
+
+### Project work
+
+- Data cleaning
+- Feature preparation
+- Categorical data processing
+- Feature engineering
+- Model training
+- Prediction generation
+- Model evaluation
+- Result interpretation
+
+**Technologies:** Python, XGBoost, Pandas, NumPy and machine learning
+
+---
+
 ## R Vehicle Data Analysis
 
-An R-based data-analysis project using vehicle datasets.
+An R-based data-analysis project using structured vehicle data.
 
-The project focused on preparing, exploring, analysing, and visualising structured vehicle information.
-
-**Project tasks:**
+### Project work
 
 - Importing datasets
 - Cleaning and transforming data
-- Statistical summaries
 - Filtering and grouping
+- Statistical summaries
 - Data visualisation
-- Identifying patterns and trends
-- Producing analysis results
-
-**Technologies:** R, data frames, data visualisation and statistical analysis
-
----
-
-## Advanced Data Methods
-
-Coursework involving advanced approaches to data analysis and structured problem-solving.
-
-**Topics included:**
-
-- Data preprocessing
-- Statistical analysis
-- Machine-learning concepts
-- Feature preparation
-- Data interpretation
-- Result evaluation
+- Pattern identification
 - Analytical reporting
 
-**Technologies:** Python, R, SQL and analytical methods
+**Technologies:** R, data frames, statistical analysis and data visualisation
 
 ---
-
-# Data Engineering and ETL Projects
 
 ## ETL and Data Transformation Workflows
 
-Development of ETL-style workflows for extracting, cleaning, transforming, validating, and preparing data.
+Development of workflows for extracting, cleaning, transforming, validating, and preparing data.
 
-**Workflow stages:**
+### ETL stages
 
-1. Extract data from Excel files, databases, and APIs
+1. Extract data from files, APIs, and databases
 2. Clean missing, duplicate, and invalid values
 3. Transform data into structured formats
 4. Validate data quality
 5. Load prepared data into reports or databases
-6. Create visualisations and business reports
+6. Create visualisations and analytical reports
 
 **Technologies:** Python, SQL, Power Query, Excel, APIs and ETL processes
 
@@ -263,30 +255,50 @@ Development of ETL-style workflows for extracting, cleaning, transforming, valid
 
 ## API Integration and Data Logging
 
-A development project focused on retrieving information from APIs and recording application activity.
+A development project involving API data retrieval, response processing, application logging, and error handling.
 
-**Project areas:**
+### Project work
 
 - REST API requests
 - JSON data processing
-- Error handling
 - API response validation
-- Log creation
+- Error handling
+- Application logging
 - Data storage
-- Troubleshooting integrations
-- Preparing data for further analysis
+- Integration troubleshooting
+- Data preparation for analysis
 
 **Technologies:** Python, REST APIs, JSON, SQL and logging systems
 
 ---
 
+## Maku Haku
+
+Maku Haku is a web application designed to help users discover restaurants, explore menus, and search for food options.
+
+I was responsible for backend API development and database management.
+
+### My responsibilities
+
+- Creating RESTful APIs
+- Managing restaurant and menu information
+- Supporting search queries
+- Designing database tables
+- Writing SQL queries
+- Developing stored procedures and views
+- Improving database performance
+- Testing and debugging
+- Supporting frontend integration
+
+**Technologies:** C#, ASP.NET Core API, SQL Server, Visual Studio and SQL Server Management Studio
+
+---
+
 ## GTFS Public Transport Data
 
-A data documentation and analysis project based on the General Transit Feed Specification.
+A technical documentation and data-analysis project based on the General Transit Feed Specification.
 
-The project included creating beginner-friendly documentation explaining how to download, extract, open, and understand GTFS datasets.
-
-**Datasets covered:**
+### Datasets covered
 
 - `stops.txt`
 - `routes.txt`
@@ -294,131 +306,101 @@ The project included creating beginner-friendly documentation explaining how to 
 - `calendar.txt`
 - `shapes.txt`
 
-**Skills demonstrated:**
+### Skills demonstrated
 
 - Dataset documentation
-- Structured text-file analysis
-- Public transport data concepts
+- Structured file analysis
 - Data relationships
-- Technical communication
+- Public transport data concepts
+- Beginner-friendly technical communication
 
 **Technologies:** GTFS, CSV, data documentation and data analysis
 
 ---
 
-## Excel Invoice and Receipt Reporting
+## Advanced Data Methods
 
-Business reporting workflows created to organise invoices, receipts, payment methods, totals, and accounting information.
+Coursework involving advanced data-analysis methods and structured analytical problem-solving.
 
-**Project tasks:**
+### Topics included
 
-- Combining receipt information
-- Creating structured reports
-- Calculating totals
-- Organising payment methods
-- Preparing accountant-ready files
-- Validating missing information
-- Producing monthly Excel reports
+- Data preprocessing
+- Statistical analysis
+- Feature preparation
+- Machine-learning concepts
+- Result interpretation
+- Model evaluation
+- Analytical reporting
 
-**Technologies:** Excel, formulas, structured tables and business reporting
-
----
-
-# Backend and Database Projects
-
-## Maku Haku
-
-A web application designed to help users discover restaurants, explore menus, and search for dishes.
-
-I was responsible for backend API development and database management.
-
-**My responsibilities:**
-
-- Creating RESTful APIs
-- Managing restaurant information
-- Managing menu items
-- Supporting search queries
-- Designing database tables
-- Developing SQL queries
-- Creating stored procedures and views
-- Database indexing
-- Query optimisation
-- Testing and debugging
-- Coordinating API integration with the frontend team
-
-**Technologies:** C#, ASP.NET Core API, SQL Server, Visual Studio and SQL Server Management Studio
+**Technologies:** Python, R, SQL and analytical methods
 
 ---
 
-## Library Management System
+## ESRS Web Reporting
 
-A relational database project for managing books, authors, borrowers, and loans.
+A web-based reporting project involving structured sustainability-related information.
 
-**Database features:**
+### Project work
 
-- Author records
-- Book records
-- Borrower information
-- Loan management
-- Relational database connections
-- Sample data
-- Search and reporting queries
+- Structured HTML content
+- Report navigation
+- Business information presentation
+- Clear data formatting
+- Web-based reporting
 
-**Technologies:** SQL, relational database design, primary keys, foreign keys and joins
+**Technologies:** HTML, CSS, JavaScript and structured reporting
 
 ---
 
-## Social Network Friend Database
+## Kalakulattori
 
-A Facebook-style database model for user accounts, friend requests, and friendships.
+A team-based web calculator project developed using an organised software-development process.
 
-**Database features:**
+### Project areas
 
-- User account table
-- Friendship table
-- Pending requests
-- Accepted friendships
-- Blocked relationships
-- Duplicate relationship prevention
-- Timestamps
-- Friend-list queries
+- Calculator functionality
+- Calculation history
+- User stories
+- Scrum planning
+- Sprint documentation
+- Unit testing
+- Automated testing
+- GitLab CI/CD
+- Technical documentation
 
-**Technologies:** SQL, database modelling, many-to-many relationships and constraints
+**Technologies:** Web development, GitLab, CI/CD, automated testing and Scrum
 
 ---
 
-# Web Development Projects
+## Docker and Ubuntu Development Environment
 
-## Gym Blog
+A learning and documentation project covering containerisation and Linux-based development environments.
 
-My first team-based web development project was a responsive fitness blog.
+### Topics included
 
-The website presented workout routines, nutrition information, and fitness articles in a clear and accessible format.
+- Docker installation
+- Images and containers
+- Container management
+- Ubuntu development environment
+- Command-line tools
+- Technical documentation
 
-**Skills developed:**
-
-- Team collaboration
-- Responsive web design
-- Frontend development
-- Project planning
-- User-centred interface design
-
-**Technologies:** HTML, CSS and JavaScript
+**Technologies:** Docker, Ubuntu, GitLab and command-line tools
 
 ---
 
 ## Personal Portfolio Website
 
-A responsive personal portfolio presenting my education, experience, skills, and software projects.
+A responsive portfolio website presenting my education, work experience, skills, and software projects.
 
-**Website sections:**
+### Website sections
 
 - Home
 - About
 - Resume
 - Portfolio
-- Project descriptions
-- Contact information
+- Projects
+- Contact
 
 **Technologies:** HTML, CSS, JavaScript, Bootstrap and GitHub Pages
 
@@ -428,106 +410,39 @@ A responsive personal portfolio presenting my education, experience, skills, and
 
 ## Multilingual WordPress Development
 
-Development of multilingual websites with separate content and navigation for several languages.
+Development and maintenance of multilingual WordPress websites.
 
-**Languages supported:**
-
-- Finnish
-- English
-- Russian
-- Uzbek
-- Swedish
-
-**Project areas:**
+### Project areas
 
 - WordPress theme development
 - Responsive layouts
 - Language navigation
 - Custom service pages
-- Contact tools
+- Contact functionality
 - Mobile optimisation
-- Website administration
+- Content administration
 
-**Technologies:** WordPress, PHP concepts, HTML, CSS and JavaScript
-
----
-
-## ESRS Web Reporting
-
-A web-format reporting project involving structured sustainability-related information.
-
-**Project areas:**
-
-- Structured HTML content
-- Clear report navigation
-- Data presentation
-- Business information formatting
-- Web-based reporting
-
-**Technologies:** HTML, CSS, JavaScript and structured reporting
+**Technologies:** WordPress, HTML, CSS and JavaScript
 
 ---
 
-# Software Development and DevOps Projects
-
-## Kalakulattori
-
-A team-based web calculator project developed using an organised software-development lifecycle.
-
-**Project areas:**
-
-- Basic calculator functionality
-- Calculation history
-- Scrum planning
-- User stories
-- Sprint documentation
-- Unit testing
-- Automated testing
-- GitLab CI/CD
-- Time tracking
-- Technical documentation
-
-**Technologies:** Web development, GitLab, CI/CD, unit testing and Scrum
-
----
-
-## Docker and Ubuntu Development Environment
-
-A learning and documentation project covering containerisation and Linux-based development environments.
-
-**Topics included:**
-
-- Docker installation
-- Container concepts
-- Image and container management
-- Ubuntu environment
-- Command-line usage
-- Development documentation
-
-**Technologies:** Docker, Ubuntu, GitLab and command-line tools
-
----
-
-<details>
-<summary><strong>Additional programming projects</strong></summary>
-
-<br>
+## Smaller Programming Projects
 
 ### Tic-Tac-Toe
 
-A browser-based Tic-Tac-Toe game developed to practise JavaScript logic, event handling, and interface development.
+A browser-based game developed to practise JavaScript logic, event handling, and user-interface development.
 
 **Technologies:** JavaScript, HTML and CSS
 
-### Python Hangman Game
+### Python Hangman
 
-A command-line word guessing game developed to practise Python programming.
+A command-line word guessing game developed to practise Python programming fundamentals.
 
 **Technologies:** Python, loops, conditions, functions and input validation
 
 ### C# Calculator
 
-A desktop calculator developed with C# and Windows Forms.
+A desktop calculator created using C# and Windows Forms.
 
 **Technologies:** C#, Windows Forms and event-driven programming
 
@@ -551,7 +466,7 @@ A desktop calculator developed with C# and Windows Forms.
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Power%20Query-ETL%20%26%20Transformation-217346?style=for-the-badge" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-217346?style=for-the-badge" alt="Power Query"/>
   <img src="https://img.shields.io/badge/DAX-Data%20Modelling-F2C811?style=for-the-badge" alt="DAX"/>
   <img src="https://img.shields.io/badge/XGBoost-Machine%20Learning-EB5B28?style=for-the-badge" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/ETL-Data%20Engineering-4B8BBE?style=for-the-badge" alt="ETL"/>
@@ -586,7 +501,7 @@ A desktop calculator developed with C# and Windows Forms.
 ## Cloud, Tools and Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,gitlab,vscode,visualstudio,docker,vercel" alt="Development and deployment tools"/>
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,gitlab,vscode,visualstudio,docker,vercel" alt="Cloud and development tools"/>
 </p>
 
 <p>
@@ -609,9 +524,9 @@ A desktop calculator developed with C# and Windows Forms.
 | Backend Development | Developed REST APIs using ASP.NET Core |
 | Database Development | Worked with SQL Server, PostgreSQL, MySQL and MongoDB |
 | Data Engineering | Developed ETL-style data workflows |
-| Business Automation | Developed Telegram bots and business processes |
+| Business Automation | Developed Telegram bots and digital business workflows |
 | Data Visualisation | Created Power BI reports with Power Query and DAX |
-| Machine Learning | Worked with Python, financial data and XGBoost |
+| Machine Learning | Worked with Python and XGBoost |
 | R Programming | Analysed and visualised structured datasets using R |
 
 ---
@@ -629,15 +544,6 @@ A desktop calculator developed with C# and Windows Forms.
 - API integrations
 - Cloud deployment and DevOps
 - AI-powered business automation
-
----
-
-# Languages
-
-- Uzbek
-- Russian
-- Finnish
-- English
 
 ---
 
