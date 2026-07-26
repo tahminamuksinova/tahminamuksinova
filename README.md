@@ -66,7 +66,7 @@ The projects below demonstrate my ability to combine technical development with 
 ---
 
 # Recent Projects
-
+ <details>
 ## AzizMatrix
 
 AzizMatrix is a multilingual web platform offering interactive personal-analysis tools and automated calculations based on a user's birth date.
